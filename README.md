@@ -34,7 +34,7 @@ With Packet Tracer, users can create complex network topologies and simulate the
 
 ![Connect Wireless to Wired](https://user-images.githubusercontent.com/98957798/229341054-4af61d30-752f-40a0-a8bb-911609e5c77b.png)
 
-## DHCP. 
+## DHCP (Dynamic Host Configuration Protocol)
 
 Dynamic Host Configuration Protocol (DHCP) is a network protocol used to automatically assign IP addresses and other network configuration settings to devices on a network. DHCP is commonly used in local area networks (LANs) and is implemented by a DHCP server that manages a pool of available IP addresses and leases them to devices on the network as needed.
 
