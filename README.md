@@ -10,31 +10,31 @@ With Packet Tracer, users can create complex network topologies and simulate the
 
 # summary:-
 
-## Connect two computers. 
+## Connect two computers:
 
 ![Connect two computers](https://user-images.githubusercontent.com/98957798/229339728-12eec8d5-7a2d-4b91-aa1c-360e0eb317ee.png)
 
-## Star Topology.
+## Star Topology:
 
 ![Star Topology](https://user-images.githubusercontent.com/98957798/229339793-af8ac214-8dba-456c-a160-3482368de529.png)
 
-## Connection between two switches.
+## Connection between two switches:
 
 ![Connection between two switches](https://user-images.githubusercontent.com/98957798/229339859-373e8519-ebcb-4d8c-a01b-dcb029c42490.png)
 
-## Router connection.
+## Router connection:
 
 ![Router Connection](https://user-images.githubusercontent.com/98957798/229339980-a445500d-c5ca-41ef-9e57-ddded3aa14c5.png)
 
-## Wireless connection.
+## Wireless connection:
 
 ![Wireless connection](https://user-images.githubusercontent.com/98957798/229340001-da931eb2-a376-4068-90b4-793dab062d8b.png)
 
-## Connect Wireless to wired.
+## Connect Wireless to wired:
 
 ![Connect Wireless to Wired](https://user-images.githubusercontent.com/98957798/229341054-4af61d30-752f-40a0-a8bb-911609e5c77b.png)
 
-## DHCP (Dynamic Host Configuration Protocol)
+## DHCP (Dynamic Host Configuration Protocol):
 
 Dynamic Host Configuration Protocol (DHCP) is a network protocol used to automatically assign IP addresses and other network configuration settings to devices on a network. DHCP is commonly used in local area networks (LANs) and is implemented by a DHCP server that manages a pool of available IP addresses and leases them to devices on the network as needed.
 
@@ -44,7 +44,7 @@ DHCP provides several benefits for network administrators, including easier mana
 
 ![Simulate DHCP](https://user-images.githubusercontent.com/98957798/229341170-b2dcd7dd-d8b5-455b-94f2-55797c74fcce.png)
 
-## Email Server.
+## Email Server:
 
 ![Simulate Email Server](https://user-images.githubusercontent.com/98957798/229341263-205570cb-d580-4dc5-9c21-05f7581e888f.png)
 
@@ -71,13 +71,13 @@ Email servers can be standalone machines or part of a larger infrastructure. Org
 
 In summary, email servers are fundamental to data communication, enabling the exchange of electronic messages across the internet and within private networks. They facilitate the reliable and secure transmission, storage, and retrieval of email messages between users and domains.
 
-## FTP.
+## FTP (File Transfer Protocol):
 
 FTP stands for File Transfer Protocol, which is a standard network protocol used for transferring files from one host to another over a TCP-based network, such as the internet. FTP is commonly used for uploading and downloading files to and from web servers and other remote systems.
 
 ![Simulate FTP](https://user-images.githubusercontent.com/98957798/229341299-c0bd8e12-87b5-4450-bf83-ac1788da0350.png)
 
-## HTTP 
+## HTTP (Hypertext Transfer Protocol):
 
 HTTP stands for Hypertext Transfer Protocol, which is a protocol used for transferring data over the internet. Specifically, it is the protocol that enables communication between web clients (such as web browsers) and web servers. HTTP is an application layer protocol that operates on top of the Transmission Control Protocol (TCP) and uses a request/response model for communication.
 
